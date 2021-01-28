@@ -73,6 +73,8 @@ Use the [Open API 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/
 
 Not sure how to use GitHub, share what you made using Google Drive or Dropbox. 
 
+If something isn't clearly explained, don't hesitate to email us back. 
+
 ## Tools
 
 * [Hemingway](http://www.hemingwayapp.com/)
