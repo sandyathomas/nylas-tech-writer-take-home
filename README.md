@@ -25,7 +25,7 @@ application/json
 
 name is required to make a pet
 
-```json
+```text
 {
   "category": { //what category the pet belongs to
     "name": "string", //category name
