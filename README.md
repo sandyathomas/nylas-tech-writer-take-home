@@ -5,7 +5,7 @@ Thanks for taking the time to complete the Nylas take-home. :tada:
 The take-home consists of 2 parts:
 
 * Writing sample
-* API exercise; Nylas is an API company ,after all. 
+* API exercise;  Nylas is an API company, after all. 
 
 
 ## Writing Sample
@@ -78,7 +78,7 @@ If something isn't clearly explained, don't hesitate to email us back.
 ## Tools
 
 * [Hemingway](http://www.hemingwayapp.com/)
-* [Grammerly](https://www.grammarly.com/)
+* [Grammarly](https://www.grammarly.com/)
 * [Stoplight](https://stoplight.io/)
 * [editor.swagger.io](https://editor.swagger.io/)
 * [Redoc](https://github.com/Redocly/redoc)
