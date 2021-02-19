@@ -6,11 +6,12 @@ The take-home consists of 2 parts:
 
 * Writing sample
 * API exercise;  Nylas is an API company, after all. 
-https://www.dropbox.com/s/bhqvuap3ywwpgtk/SwedaMart_Release_Notes_3.2.0.61.pdf?dl=0
 
 ## Writing Sample
 
 Provide a link to your favorite thing you've ever written. It does not have to be documentation related or technical in any way. 
+
+https://www.dropbox.com/s/bhqvuap3ywwpgtk/SwedaMart_Release_Notes_3.2.0.61.pdf?dl=0
 
 
 ## API Exercise
