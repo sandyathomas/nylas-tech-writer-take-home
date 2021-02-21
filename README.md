@@ -16,6 +16,8 @@ https://www.dropbox.com/s/bhqvuap3ywwpgtk/SwedaMart_Release_Notes_3.2.0.61.pdf?d
 
 ## API Exercise
 
+@tjperry Please refer to the following URL: https://github.com/nylas/nylas-tech-writer-take-home/compare/main...sandyathomas:sandyathomas-patch-1?expand=1
+
 Explain how to create a new `Pet` using the provided documentation below. 
 
 ### Proposed Endpoint Add a new Pet
